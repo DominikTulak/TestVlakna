@@ -1,0 +1,17 @@
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\bin\Debug\netcoreapp3.1\PhotoEditor.exe
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\bin\Debug\netcoreapp3.1\PhotoEditor.deps.json
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\bin\Debug\netcoreapp3.1\PhotoEditor.runtimeconfig.json
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\bin\Debug\netcoreapp3.1\PhotoEditor.runtimeconfig.dev.json
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\bin\Debug\netcoreapp3.1\PhotoEditor.dll
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\bin\Debug\netcoreapp3.1\PhotoEditor.pdb
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor.csprojAssemblyReference.cache
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\App.g.cs
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor_MarkupCompile.cache
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor_MarkupCompile.lref
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor.g.resources
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor.AssemblyInfoInputs.cache
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor.AssemblyInfo.cs
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor.dll
+G:\_School\_Stredni_Skola\4_rocnik\PRG\_WPF\PhotoEditor\PhotoEditor\obj\Debug\netcoreapp3.1\PhotoEditor.pdb
