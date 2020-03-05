@@ -14,14 +14,14 @@ namespace PhotoEditor.Model
 
         int[,] array2D;
 
-        public void ProvestVSamostatnemVlakne(BitmapImage img) //Úprava zelené v samostatném vlákně (bod č.1)
+        public void ProvestVSamostatnemVlakne(BitmapImage img) //Úprava zelené v samostatném vlákně (v zadání bod č.1)
         {
             new System.Threading.Thread((img) =>
             {
                 Uprava_3(img);
             }).Start();
         }
-        public string PorovnatRychlostMetod() //Porovnání rychlosti 2 metod (v zadání bod č.3)
+        public string PorovnatRychlostMetod() //Porovnání rychlosti 2 metod (bod č.3)
         {
             Stopwatch stopwatch1 = new Stopwatch();
             Stopwatch stopwatch2 = new Stopwatch();
